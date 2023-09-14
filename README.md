@@ -10,3 +10,7 @@ Rs.100/pizza
 Rs.20/puffs
 Rs.10/cooldrink
 Generate a bill for What Vohra has bought.
+
+Q3)    Ritik wants a magic board, which displays a character for a corresponding number for his science project. Help him to develop such an application.
+For example when the digits 65,66,67,68 are entered, the alphabet ABCD are to be displayed.
+[Assume the number of inputs should be always 4 ]
