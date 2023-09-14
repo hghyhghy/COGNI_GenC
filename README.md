@@ -14,3 +14,7 @@ Generate a bill for What Vohra has bought.
 Q3)    Ritik wants a magic board, which displays a character for a corresponding number for his science project. Help him to develop such an application.
 For example when the digits 65,66,67,68 are entered, the alphabet ABCD are to be displayed.
 [Assume the number of inputs should be always 4 ]
+
+Q40     FOE college wants to recognize the department which has succeeded in getting the maximum number of placements for this academic year. The departments that have participated in the recruitment drive are CSE,ECE, MECH. Help the college find the department getting maximum placements. Check for all the possible output given in the sample snapshot
+
+Note : If any input is negative, the output should be “Input is Invalid”.  If all department has equal number of placements, the output should be “None of the department has got the highest placement”.
