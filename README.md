@@ -37,3 +37,5 @@ If the appraisal rating is between 3.1 and 4, the increment is  25% of the salar
 If the appraisal rating is between 4.1 and 5, the increment is  30% of the salary.
 
 Q9)   Chaman planned to choose a four digit lucky number for his car. His lucky numbers are 3,5 and 7. Help him find the number, whose sum is divisible by  3 or 5 or 7. Provide a valid car number, Fails to provide a valid input then display that number is not a valid car number.
+
+Q100   LCM of two numbers in java using recursion
