@@ -35,3 +35,5 @@ Q8)   XYZ Technologies is in the process of increment the salary of the employee
 If the appraisal rating is between 1 and 3, the increment is 10% of the salary.
 If the appraisal rating is between 3.1 and 4, the increment is  25% of the salary.
 If the appraisal rating is between 4.1 and 5, the increment is  30% of the salary.
+
+Q9)   Chaman planned to choose a four digit lucky number for his car. His lucky numbers are 3,5 and 7. Help him find the number, whose sum is divisible by  3 or 5 or 7. Provide a valid car number, Fails to provide a valid input then display that number is not a valid car number.
